@@ -1,4 +1,4 @@
-# Terraform Notes: Basic to Advanced
+# Terraform Notes: Basic to Advanced with example scripts
 
 ## Introduction
 Terraform is an open-source Infrastructure as Code (IaC) tool that allows you to define and provision infrastructure using a declarative configuration language.
