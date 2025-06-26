@@ -1,4 +1,4 @@
-# Terraform VPC Services Example
+# Terraform VPC Services Example which can be used in real time projects
 # This file contains 10 different VPC-related resources, each as a separate resource block
 
 provider "aws" {
